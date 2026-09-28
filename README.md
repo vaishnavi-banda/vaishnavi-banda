@@ -1,6 +1,4 @@
 # VaishnaviBanda
-Config files for my GitHub
-
 Hi! I'm Vaishnavi :) 
 
 A couple of fun facts about me:
