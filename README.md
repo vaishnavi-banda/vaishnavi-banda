@@ -1,4 +1,3 @@
-# VaishnaviBanda
 Hi! I'm Vaishnavi :) 
 
 A couple of fun facts about me:
