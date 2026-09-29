@@ -6,3 +6,5 @@ A couple of fun facts about me:
 * ⚡ Fun fact: I grew up a student-athlete, doing both competitive dance and figure skating. I have a diploma in dance and am super passionate about the way learning shapes someone. I'm also a huge board game and card game fan. Catan and ERS are my favorites!
 
 You can always reach me at vaishnavibanda2@gmail.com or www.linkedin.com/in/vaishnavi-banda
+
+NOTE: My GitHub was recently connected to my email through the terminal and is in the process of being updated to reflect my actual commits and projects. 
